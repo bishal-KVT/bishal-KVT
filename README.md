@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![GitHub](https://github-readme-stats-bishal-KVT.vercel.app/api?username=bishal-KVT&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/bishal-KVT)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=bishal-KVT&show_icons=true&theme=dracula)](https://github.com/bishal-KVT)
 
 <!---
 bishal-KVT/bishal-KVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
